@@ -2,6 +2,7 @@
     "name": "php-essential-pack",
     "displayName": "PHP Essential Pack",
     "description": "The only extension that a modern PHP developer must install",
+    "publisher": "dudemelo",
     "author": {
         "name": "dudemelo"
     },
