@@ -18,7 +18,7 @@
     },
     "homepage": "https://github.com/dudemelo/vscode-php-essential-pack/blob/master/README.md",
     "galleryBanner": {
-        "color": "#411456",
+        "color": "#1d1b84",
         "theme": "dark"
     },
     "engines": {
