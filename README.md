@@ -1,8 +1,8 @@
-# PHP Essential Pack for VS Code
+# PHP Essentials
 
 ![Version] ![Installs] ![Downloads] ![Rating]
 
-PHP Essential Pack is a collection of popular extensions that help write,
+PHP Essentials is a collection of popular extensions that help write,
 testing and debugging PHP applications in VS Code.
 
 ## Extensions Included
@@ -23,10 +23,10 @@ Extension | Author | &nbsp;
 This extension pack is licensed under the [MIT License](LICENSE)
 
 
-[Version]: https://badgen.net/vs-marketplace/v/dudemelo.php-essential-pack
-[Installs]: https://badgen.net/vs-marketplace/i/dudemelo.php-essential-pack
-[Downloads]: https://badgen.net/vs-marketplace/d/dudemelo.php-essential-pack
-[Rating]: https://badgen.net/vs-marketplace/rating/dudemelo.php-essential-pack
+[Version]: https://badgen.net/vs-marketplace/v/dudemelo.php-essentials
+[Installs]: https://badgen.net/vs-marketplace/i/dudemelo.php-essentials
+[Downloads]: https://badgen.net/vs-marketplace/d/dudemelo.php-essentials
+[Rating]: https://badgen.net/vs-marketplace/rating/dudemelo.php-essentials
 
 
 [PHP Intelephense]: https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client

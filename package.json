@@ -1,6 +1,6 @@
 {
-    "name": "php-essential-pack",
-    "displayName": "PHP Essential Pack",
+    "name": "php-essentials",
+    "displayName": "PHP Essentials",
     "description": "The only extension that a modern PHP developer must install",
     "publisher": "dudemelo",
     "author": {
@@ -10,13 +10,13 @@
     "license": "SEE LICENSE IN LICENSE",
     "icon": "images/icon.png",
     "bugs": {
-        "url": "https://github.com/dudemelo/vscode-php-essential-pack/issues"
+        "url": "https://github.com/dudemelo/vscode-php-essentials/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dudemelo/vscode-php-essential-pack"
+        "url": "https://github.com/dudemelo/vscode-php-essentials"
     },
-    "homepage": "https://github.com/dudemelo/vscode-php-essential-pack/blob/master/README.md",
+    "homepage": "https://github.com/dudemelo/vscode-php-essentials/blob/master/README.md",
     "galleryBanner": {
         "color": "#1d1b84",
         "theme": "dark"
@@ -41,7 +41,7 @@
     "keywords": [
         "php",
         "pack",
-        "essential",
+        "inteliphense",
         "productivity",
         "intellisense"
     ],
