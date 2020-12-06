@@ -29,6 +29,7 @@
     ],
     "extensionPack": [
         "bmewburn.vscode-intelephense-client",
+        "hbenl.vscode-test-explorer",
         "recca0120.vscode-phpunit",
         "felixfbecker.php-debug",
         "mehedidracula.php-constructor",
