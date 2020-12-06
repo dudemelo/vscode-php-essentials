@@ -44,5 +44,12 @@
         "essential",
         "productivity",
         "intellisense"
-    ]
+    ],
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish minor"
+    },
+    "devDependencies": {
+        "vsce": "^1.81"
+    }
 }
