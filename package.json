@@ -35,8 +35,7 @@
         "mehedidracula.php-constructor",
         "eamodio.gitlens",
         "editorconfig.editorconfig",
-        "streetsidesoftware.code-spell-checker",
-        "formulahendry.auto-rename-tag"
+        "streetsidesoftware.code-spell-checker"
     ],
     "keywords": [
         "php",
