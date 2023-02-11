@@ -2,8 +2,7 @@
 
 ![Version] ![Installs] ![Downloads] ![Rating]
 
-PHP Essentials is a collection of popular extensions that help write,
-testing and debugging PHP applications in VS Code.
+A collection of popular extensions that help you write, test and debug PHP applications in VSCode.
 
 ## Extensions Included
 
@@ -16,7 +15,6 @@ Extension | Author | &nbsp;
 [GitLens] | [@eamodio] | ![GitLens Version] ![GitLens Installs]
 [EditorConfig] | [@editorconfig] | ![EditorConfig Version] ![EditorConfig Installs]
 [Code Spell Checker] | [@streetsidesoftware] | ![Code Spell Checker Version] ![Code Spell Checker Installs]
-[Auto Rename Tag] | [@formulahendry] | ![Auto Rename Tag Version] ![Auto Rename Tag Installs]
 
 ## License
 
